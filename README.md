@@ -1,6 +1,6 @@
 ## Hi, I'm Al Zabir 🚀 
 
-💻 Flutter Developer | 🌐 Frontend Developer
+💻 Flutter Developer | 🌐 Frontend Web Developer
 
 ---
 
